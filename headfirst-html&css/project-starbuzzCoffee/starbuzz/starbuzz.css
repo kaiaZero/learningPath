@@ -1,11 +1,11 @@
-body { 
+body {
   background-color: #b5a789;
   font-family:      Georgia, "Times New Roman", Times, serif;
   font-size:        small;
   margin:           0px;
 }
 
-/* 
+/*
 	height messes up the headers in the blog in the articles
 	it's only appropriate for the top header.
 	add a class (new with blog)
@@ -32,7 +32,7 @@ nav {
 nav ul {
 	margin: 0px;
 	list-style-type: none;
-	padding: 5px 0px 5px 0px;
+	padding:5px 0px 5px 0px;
 }
 nav ul li {
 	display: inline;
@@ -118,7 +118,7 @@ nav ul li a:link, nav ul li a:visited {
 	font-weight: bold;
 
 	/* optional! very hard to see although does help */
-	text-shadow: 1px 1px 3px #e2c2c2; 
+	text-shadow: 1px 1px 3px #e2c2c2;
 
 	/* try this and see if you like it */
 	text-transform: uppercase;
